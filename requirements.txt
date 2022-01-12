@@ -33,7 +33,7 @@ opt-einsum==3.2.1
 packaging==20.4
 parso==0.7.0
 pickleshare==0.7.5
-pipenv==2020.6.2
+pipenv==2022.1.8
 prompt-toolkit==3.0.5
 protobuf==3.12.2
 pyparsing==2.4.7
